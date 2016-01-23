@@ -1,8 +1,11 @@
 <?php 
-
-/**
-* 
+/*
+*
+* This is a simpel oop calculator, hope it will be
+* of use, enjoy and happy coding. 
+*
 */
+
 class Calculator
 {
 

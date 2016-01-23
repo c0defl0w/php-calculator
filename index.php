@@ -1,4 +1,10 @@
 <?php
+/*
+*
+* This is a simpel oop calculator, hope it will be
+* of use, enjoy and happy coding. 
+*
+*/
 
 require_once 'calculator.php';
 
